@@ -24,6 +24,7 @@ import java.util.*;
  * 输入：version1 = "0.1", version2 = "1.1"
  * 输出：-1
  * 解释：version1 中下标为 0 的修订号是 "0"，version2 中下标为 0 的修订号是 "1" 。0 < 1，所以 version1 < version2
+ * simon
  */
 class Solution {
     public int compareVersion(String version1, String version2) {
